@@ -28,6 +28,7 @@ export default function Registration() {
      <div className="absolute top-[25%] flex flex-col items-center w-full  ">
       <main className=" h-auto  rounded-2xl bg-[#FFFFFF] top-[30%]  p-8 w-[65%] sm:w-[50%] md:w-[40%] lg:w-[30%]  ">
         <form className="text-md">
+        <h1></h1>
           <input
             type="text"
             required
